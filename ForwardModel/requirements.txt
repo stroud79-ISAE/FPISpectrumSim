@@ -1,0 +1,6 @@
+numpy==2.1.2
+xarray==2024.9.0
+scipy==1.14.1
+joblib==1.4.2
+pyproj==3.7.0
+netCDF4==1.7.1
