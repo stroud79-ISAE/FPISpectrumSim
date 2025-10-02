@@ -52,8 +52,8 @@ Optional: set environment variable `SLURM_CPUS_PER_TASK` to control parallel job
 ---
 
 ## Installation
-    git clone https://github.com/your-repo/therm-wind-doppler.git
-    cd FPI-SpectrumModel
+    git clone https://github.com/stroud79-ISAE/FPISpectrumSim.git
+    cd FPISpectrumSim
     cd ForwardModel
 
 Ensure all `.py` files are in the same directory.
@@ -123,19 +123,19 @@ If you use this project in your research or work, please cite it.
 
 A simple acknowledgement in a `README.md` or a presentation is always appreciated:
 
-> This project uses FPI-SpectrumSim/ForwardModel (https://github.com/your-username/your-repo), developed by Joseph Stroud.
+> This project uses FPISpectrumSim/ForwardModel (https://github.com/stroud79-ISAE/FPISpectrumSim.git), developed by Joseph Stroud.
 
 ### For Academic Use (BibTeX)
 
 For academic papers, please use the following BibTeX entry.
 
 ```bibtex
-@software{STROUD_2025_FPI-SpectrumSim,
+@software{STROUD_2025_FPISpectrumSim,
   author = {Mr Joseph Stroud},
-  title = {FPI-SpectrumSim},
+  title = {FPISpectrumSim},
   month = {October},
   year = {2025},
   publisher = {GitHub},
   version = {v1.0.0},
-  url = {[https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)}
+  url = {[https://github.com/stroud79-ISAE/FPISpectrumSim.git](https://github.com/stroud79-ISAE/FPISpectrumSim.git)}
 }
